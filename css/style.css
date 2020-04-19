@@ -39,7 +39,7 @@ body {
   top: 290px;
   left: 30px;
   color: white;
-  margin-right: 640px;
+  margin-right: 740px;
   margin-left: 45px;
   text-align: left ;
   }
@@ -86,7 +86,7 @@ p{
 
 .ma{
   margin-left: 20px;
-  margin-right: 620px;
+  margin-right: 820px;
   margin-bottom: 200px;
 }
 
@@ -111,11 +111,13 @@ p{
   color: black ;
   font-size:15px;
   font-weight: lighter;
-  margin-left:10px;
-  margin-right: 100px;
+  margin-left:0px;
+  margin-right: 840px;
   text-align: left ;
   padding-right: 10px;
-  
+  position: absolute;
+  top: 855px;
+  left: 50px;
 }
 
 .div_pe{
@@ -124,7 +126,7 @@ p{
  margin-bottom: 220px;
  position: absolute;
  top: 805px;
- left: 470px;
+ left: 550px;
  text-align: left;
 
 }
