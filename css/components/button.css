@@ -1,0 +1,152 @@
+ 
+ .red-btn {
+  	background-color:white;
+  	color: rgb(70,6,9);
+  	padding: 15px 20px;
+  	font-family:Arial;
+ 	font-size: 13px;
+ 	position: absolute;
+ 	top: 50px;
+    left: 450px;
+    border-style: none solid none none;
+	text-decoration: none;
+ }
+
+ .blue-btn {
+  	background-color:white;
+  	color: rgb(70,6,9);
+  	padding: 15px 20px;
+  	font-family:Arial;
+ 	font-size: 13px;
+ 	position: absolute;
+ 	top: 50px;
+    left: 540px;
+    border-style: none solid none none;
+	text-decoration: none;
+ }
+
+
+
+  .grey-btn {
+  	background-color:white;
+  	color: rgb(70,6,9);
+  	padding: 15px 20px;
+  	font-family:Arial;
+ 	font-size: 13px;
+ 	position: absolute;
+ 	top: 50px;
+    left: 700px;
+    border-style: none solid none none;
+	text-decoration: none;
+ }
+
+  .black-btn {
+  	background-color:white;
+  	color: rgb(70,6,9);
+  	padding: 15px 20px;
+  	font-family:Arial;
+ 	font-size: 13px;
+ 	position: absolute;
+ 	top: 50px;
+    left: 840px;
+    border-style: none solid none none;
+	text-decoration: none;
+ }
+
+
+   .white-btn {
+  	background-color:white;
+  	color: rgb(70,6,9);
+  	padding: 15px 20px;
+  	font-family:Arial;
+ 	font-size: 13px;
+ 	position: absolute;
+ 	top: 50px;
+    left: 960px;
+    border-style: none solid none none;
+	text-decoration: none;
+ }
+
+
+	#type_oil{
+ 	border-style: none none solid none;
+ 	background-color:white;
+  	color: rgb(70,6,9);
+  	padding: 15px ;
+  	font-family:Arial;
+ 	font-size: 12px;
+	text-decoration: none;
+	margin-right: 400px;
+	margin-left: 0px;
+	position: absolute;
+ 	top: 995px;
+    left: 40px;
+    border-width: 0.3px;
+}
+
+
+	#type_lux{
+ 	border-style: none none solid none;
+ 	background-color:white;
+  	color: rgb(70,6,9);
+  	padding: 15px ;
+  	font-family:Arial;
+ 	font-size: 12px;
+	text-decoration: none;
+	margin-right: 400px;
+	margin-left: 120px;
+	position: absolute;
+ 	top: 995px;
+    left: 40px;
+    border-width: 0.3px;
+}
+
+	#type_tmt{
+ 	border-style: none none solid none;
+ 	background-color:white;
+  	color: rgb(70,6,9);
+  	padding: 15px ;
+  	font-family:Arial;
+ 	font-size: 12px;
+	text-decoration: none;
+	margin-right: 400px;
+	margin-left: 240px;
+	position: absolute;
+ 	top: 995px;
+    left: 40px;
+    border-width: 0.3px;
+}
+
+
+	#real-estate{
+ 	border-style: none none solid none;
+ 	background-color:white;
+  	color: rgb(70,6,9);
+  	padding: 15px ;
+  	font-family:Arial;
+ 	font-size: 12px;
+	text-decoration: none;
+	margin-right: 400px;
+	margin-left: 150px;
+	position: absolute;
+ 	top: 190px;
+    left: 0px;
+    border-width: 0.3px;
+}
+
+
+	#private-equity{
+ 	border-style: none none solid none;
+ 	background-color:white;
+  	color: rgb(70,6,9);
+  	padding: 15px ;
+  	font-family:Arial;
+ 	font-size: 12px;
+	text-decoration: none;
+	margin-right: 200px;
+	margin-left: 350px;
+	position: absolute;
+ 	top: 190px;
+    left: 0px;
+    border-width: 0.3px;
+}

@@ -1,0 +1,33 @@
+.container{
+	padding-left: 0px;
+	margin-top: 0px;
+	text-align: center;
+	border-style: none none none solid;
+	border-width: 5px;
+	border-color: rgb(70,6,9);
+}
+#home_image{
+	
+	margin-top: 130px;
+	width:100%;
+	height:450px;
+		
+}
+
+
+
+	@media (max-width: 960px) {
+	  .container {
+	    width: 700px;
+	  }
+	}
+	@media (max-width: 720px) {
+	  .container {
+	    width: 500px;
+	  }
+	}
+	@media (max-width: 540px) {
+	  .container {
+	    width: 300px;
+	  }
+}
